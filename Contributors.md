@@ -18,6 +18,7 @@
 - [Ali Wahaj](https://github.com/WahajAli14)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
+- [Maithili D](https://github.com/maithili008)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
